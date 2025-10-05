@@ -1,0 +1,16 @@
+{
+    "Modele_diplome_traditionnel_et_digne_Paysage_15d6dda7e3.png": [
+        {
+            "data": {
+                "degree": "DIPLÔME D'ÉTUDES SUPÉRIEURES",
+                "graduation_year": "2025",
+                "institution": "École supérieure d'art",
+                "student_name": "Jean Dupont"
+            },
+            "page_numbers": [
+                1
+            ],
+            "schema_name": "diploma"
+        }
+    ]
+}
